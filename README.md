@@ -1,6 +1,6 @@
 # day20project - 3
 
-   In this project we can get random  funny image of ur  dog.🐕   <b>
+   In this project we can get random  funny image of ur  dog.🐕   \n   <b>
      !1.Enter ur dog Name 🐕‍🦺 
       2.Enter submit button 🔲
 

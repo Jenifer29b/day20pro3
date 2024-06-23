@@ -1,2 +1,7 @@
-"# day20pro3" 
-"# day20pro3" 
+# day20project - 3
+
+   In this project we can get random  funny image of ur  dog.🐕
+     !1.Enter ur dog Name 🐕‍🦺 
+      2.Enter submit button 🔲
+
+  Finally you will get funny image 🐶😻🧍

@@ -1,5 +1,8 @@
 const url = "https://dog.ceo/api/breeds/image/random"
 
+const myform = document.getElementById("myform")
+
+// add event listener to the form
 const submit = document.getElementById("submit")
 
 
@@ -21,6 +24,9 @@ fetch(url)
         img.style.textAlign = "center"
     })
     .catch(error => console.error(error))
+    .finally(() => {
+        myform.reset()
+    })
 
 })
 
